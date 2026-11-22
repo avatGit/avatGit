@@ -65,5 +65,5 @@ A passionate developer focused on building robust backend architectures, efficie
 ---
 
 <p align="center">
-  <b>Let's keep improving together!</b>
+  <b>Let's build something</b>
 </p>
